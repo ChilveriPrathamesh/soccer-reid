@@ -6,6 +6,7 @@ __pycache__/
 # Ignore system files
 .DS_Store
 Thumbs.db
+.best.py
 
 # Ignore model output and logs
 runs/
